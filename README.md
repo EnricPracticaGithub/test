@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # test
+=======
+>>>>>>> main
 ## Encabezado 2
 ### Encabezado 3
 Esto va en **negrita**
